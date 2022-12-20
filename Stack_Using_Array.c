@@ -8,7 +8,8 @@ int top = -1, inp_arr[size];  // Global Variable Initialization
 void push();                          //Function Declaration
 void pop();
 void show();
-int main() {                           //Main Function
+int main() 
+{                           //Main Function
    int choice;
    while (1) 
    {
